@@ -49,5 +49,6 @@
         android:layout_below="@+id/userNumber"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="23dp"
-        android:id="@+id/button" />
+        android:id="@+id/button"
+        android:onClick="testNumber (MainActivity)" />
 </RelativeLayout>

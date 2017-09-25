@@ -4,11 +4,11 @@ package com.mikas.numbershapesapp;
  * Created by Mikas on 24/09/2017.
  */
 
-public class Number {
+public class NumberCheck {
 
     int number;
 
-    public Number(int number) {
+    public NumberCheck(int number) {
         this.number = number;
     }
 
@@ -43,6 +43,5 @@ public class Number {
         }else {
             return false;
         }
-
     }
 }
